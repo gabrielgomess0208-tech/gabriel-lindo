@@ -1,0 +1,6 @@
+{
+  "name": "Ralo´s Politic",
+  "description": "Plataforma internacional de análise de ideologias políticas, comparação histórica, indicadores de países e laboratório de ciência política.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
